@@ -1,3 +1,3 @@
-class Student < ActiveRecord::Migration
+class Student < ActiveRecord::Migration[5.1]
   
 end
